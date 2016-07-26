@@ -90,7 +90,7 @@
     "redux": "^3.5.1",
     "rimraf": "^2.5.2",
     "rxjs": "^5.0.0-beta.6",
-    "sinon": "1.17.4",
+    "sinon": "1.17.5",
     "symbol-observable": "^0.2.4",
     "typescript": "^1.8.10",
     "webpack": "^1.13.1",
